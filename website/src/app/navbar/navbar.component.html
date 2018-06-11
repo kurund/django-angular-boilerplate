@@ -1,3 +1,6 @@
-<p>
-  navbar works!
+<p *ngIf="isLoggedIn"> 
+  Welcome {{ user }}!
+</p>
+<p *ngIf="!isLoggedIn"> 
+  Welcome Guest!
 </p>
