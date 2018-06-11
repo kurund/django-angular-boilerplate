@@ -1,5 +1,4 @@
-#Django Angular Boilerplate Application
-
+# Django Angular Boilerplate Application
 This is a sample project based on Django and Angular framwework. Frontend is developed in Angular using rest api's from Django application.
 
 
