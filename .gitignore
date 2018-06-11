@@ -1,7 +1,7 @@
 .vscode
 .idea
 env
-alice/alice/settings.py
+jely/jely/settings.py
 *.pyc
 *.log
 *.pot
