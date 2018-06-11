@@ -1,4 +1,6 @@
-Jely Application
+#Django Angular Boilerplate Application
+This is a sample project based on Django and Angular framwework. Frontend is developed in Angular using rest api's from Django application.
+
 
 ## Setup
 1. Clone the project
@@ -10,7 +12,7 @@ Jely Application
 4. Install required packages
    > pip install -r jely/requirements.txt
 5. Setup database
-   > cd alice <br/>
+   > cd jely <br/>
    > python manage.py migrate
 6. Run the server
    > python manage.py runserver
@@ -20,3 +22,14 @@ Jely Application
    > python manage.py createsuperuser
 9. Login as superuser
    > http://127.0.0.1:8000/admin
+   
+## Structure
+Django application
+> Jely folder
+
+Angular application
+> website folder
+
+## How to use
+You can indepentely develop Angular application and then run below command to deploy angular app to your django application.
+> bash deploy.sh
