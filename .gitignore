@@ -1,0 +1,7 @@
+.vscode
+.idea
+env
+alice/alice/settings.py
+*.pyc
+*.log
+*.pot
