@@ -5,3 +5,4 @@ jely/jely/settings.py
 *.pyc
 *.log
 *.pot
+.DS_Store
