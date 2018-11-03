@@ -23,7 +23,7 @@ This is a sample project based on Django and Angular framework. Frontend is deve
 9. Create superuser for the admin backend
    > python manage.py createsuperuser
 10. Login as superuser
-   > http://127.0.0.1:8000/admin
+   > http://127.0.0.1:8000/admin/
    
 ## Structure
 Django application
